@@ -9,6 +9,7 @@ require (
 	github.com/pborman/uuid v1.2.1 // indirect
 	github.com/rjeczalik/notify v0.9.2 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
+	github.com/xinfinorg/xdcchain v1.0.1 // indirect
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
 	gopkg.in/fatih/set.v0 v0.2.1 // indirect
 	gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951 // indirect
